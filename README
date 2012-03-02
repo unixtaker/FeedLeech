@@ -1,0 +1,10 @@
+FeedLeech is a simple ruby project to learn ruby development and help make
+my life easier by having some scripts to store a local copy of some podcast 
+websites that I like.
+
+I want to be able to stream the videos to my TV in chronilogical order so a 
+simple webmirror just won't do.
+
+If anybody wants to use the code, feel free and I'll be happy to see any
+incorporate any pull requests.
+
